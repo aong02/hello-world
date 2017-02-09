@@ -1,0 +1,17 @@
+body {
+	background-image: url("blue.jpg");
+	font-size: 36px;
+	font-family: Times;
+	color: white;
+}
+
+img {
+	display: block;
+	margin: auto;
+	border-radius: 50%;
+	width: 20%;
+}
+
+p {
+	text-align: center;
+}
